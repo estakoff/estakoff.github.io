@@ -1,0 +1,17 @@
+p {
+	font-size: 100px;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+
+body {
+	align-content: center;
+	background-color: lightblue;
+}
+
+body img {
+	margin: auto;
+	display: block;
+	width: 40%;
+}
